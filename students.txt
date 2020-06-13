@@ -1,0 +1,7 @@
+stu_name,stu_age,stu_class
+vijay,23,12
+yabesh,23,12
+ramkumar,23,12
+sathish,24,12
+agaci,24,12
+prasanth,18,12
